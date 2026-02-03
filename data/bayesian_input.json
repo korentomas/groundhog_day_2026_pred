@@ -1,0 +1,1620 @@
+{
+  "overall": {
+    "n_shadows": 664,
+    "n_total": 1298,
+    "proportion": 0.5115562403697997
+  },
+  "yearly_data": [
+    {
+      "year": 1887,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1888,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1890,
+      "shadow_rate": 0.0,
+      "shadow_count": 0.0,
+      "total_count": 1
+    },
+    {
+      "year": 1898,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1900,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1901,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1902,
+      "shadow_rate": 0.0,
+      "shadow_count": 0.0,
+      "total_count": 1
+    },
+    {
+      "year": 1903,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1904,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1905,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1906,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1907,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1908,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1909,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1910,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1911,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1912,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1913,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1914,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1915,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1916,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1917,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1918,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1919,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1920,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1921,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1922,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1923,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1924,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1925,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1926,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1927,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1928,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1929,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1930,
+      "shadow_rate": 1.0,
+      "shadow_count": 1.0,
+      "total_count": 1
+    },
+    {
+      "year": 1931,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1932,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1933,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1934,
+      "shadow_rate": 0.5,
+      "shadow_count": 1.0,
+      "total_count": 2
+    },
+    {
+      "year": 1935,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1936,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1937,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1938,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1939,
+      "shadow_rate": 0.5,
+      "shadow_count": 1.0,
+      "total_count": 2
+    },
+    {
+      "year": 1940,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1941,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1942,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1943,
+      "shadow_rate": 0.0,
+      "shadow_count": 0.0,
+      "total_count": 1
+    },
+    {
+      "year": 1944,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1945,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1946,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1947,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1948,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1949,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1950,
+      "shadow_rate": 0.5,
+      "shadow_count": 1.0,
+      "total_count": 2
+    },
+    {
+      "year": 1951,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1952,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1953,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1954,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1955,
+      "shadow_rate": 0.6666666666666666,
+      "shadow_count": 2.0,
+      "total_count": 3
+    },
+    {
+      "year": 1956,
+      "shadow_rate": 0.6666666666666666,
+      "shadow_count": 2.0,
+      "total_count": 3
+    },
+    {
+      "year": 1957,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1958,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1959,
+      "shadow_rate": 0.6666666666666666,
+      "shadow_count": 2.0,
+      "total_count": 3
+    },
+    {
+      "year": 1960,
+      "shadow_rate": 1.0,
+      "shadow_count": 3.0,
+      "total_count": 3
+    },
+    {
+      "year": 1961,
+      "shadow_rate": 1.0,
+      "shadow_count": 3.0,
+      "total_count": 3
+    },
+    {
+      "year": 1962,
+      "shadow_rate": 1.0,
+      "shadow_count": 3.0,
+      "total_count": 3
+    },
+    {
+      "year": 1963,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1964,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1965,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1966,
+      "shadow_rate": 1.0,
+      "shadow_count": 3.0,
+      "total_count": 3
+    },
+    {
+      "year": 1967,
+      "shadow_rate": 1.0,
+      "shadow_count": 2.0,
+      "total_count": 2
+    },
+    {
+      "year": 1968,
+      "shadow_rate": 0.3333333333333333,
+      "shadow_count": 1.0,
+      "total_count": 3
+    },
+    {
+      "year": 1969,
+      "shadow_rate": 1.0,
+      "shadow_count": 4.0,
+      "total_count": 4
+    },
+    {
+      "year": 1970,
+      "shadow_rate": 0.25,
+      "shadow_count": 1.0,
+      "total_count": 4
+    },
+    {
+      "year": 1971,
+      "shadow_rate": 0.75,
+      "shadow_count": 3.0,
+      "total_count": 4
+    },
+    {
+      "year": 1972,
+      "shadow_rate": 0.25,
+      "shadow_count": 1.0,
+      "total_count": 4
+    },
+    {
+      "year": 1973,
+      "shadow_rate": 0.5,
+      "shadow_count": 2.0,
+      "total_count": 4
+    },
+    {
+      "year": 1974,
+      "shadow_rate": 0.75,
+      "shadow_count": 3.0,
+      "total_count": 4
+    },
+    {
+      "year": 1975,
+      "shadow_rate": 0.5,
+      "shadow_count": 2.0,
+      "total_count": 4
+    },
+    {
+      "year": 1976,
+      "shadow_rate": 1.0,
+      "shadow_count": 3.0,
+      "total_count": 3
+    },
+    {
+      "year": 1977,
+      "shadow_rate": 0.6666666666666666,
+      "shadow_count": 2.0,
+      "total_count": 3
+    },
+    {
+      "year": 1978,
+      "shadow_rate": 1.0,
+      "shadow_count": 4.0,
+      "total_count": 4
+    },
+    {
+      "year": 1979,
+      "shadow_rate": 0.8,
+      "shadow_count": 4.0,
+      "total_count": 5
+    },
+    {
+      "year": 1980,
+      "shadow_rate": 0.42857142857142855,
+      "shadow_count": 3.0,
+      "total_count": 7
+    },
+    {
+      "year": 1981,
+      "shadow_rate": 0.4,
+      "shadow_count": 2.0,
+      "total_count": 5
+    },
+    {
+      "year": 1982,
+      "shadow_rate": 0.3333333333333333,
+      "shadow_count": 2.0,
+      "total_count": 6
+    },
+    {
+      "year": 1983,
+      "shadow_rate": 0.0,
+      "shadow_count": 0.0,
+      "total_count": 9
+    },
+    {
+      "year": 1984,
+      "shadow_rate": 0.625,
+      "shadow_count": 5.0,
+      "total_count": 8
+    },
+    {
+      "year": 1985,
+      "shadow_rate": 0.2222222222222222,
+      "shadow_count": 2.0,
+      "total_count": 9
+    },
+    {
+      "year": 1986,
+      "shadow_rate": 0.125,
+      "shadow_count": 1.0,
+      "total_count": 8
+    },
+    {
+      "year": 1987,
+      "shadow_rate": 0.2222222222222222,
+      "shadow_count": 2.0,
+      "total_count": 9
+    },
+    {
+      "year": 1988,
+      "shadow_rate": 0.3,
+      "shadow_count": 3.0,
+      "total_count": 10
+    },
+    {
+      "year": 1989,
+      "shadow_rate": 0.375,
+      "shadow_count": 3.0,
+      "total_count": 8
+    },
+    {
+      "year": 1990,
+      "shadow_rate": 0.0,
+      "shadow_count": 0.0,
+      "total_count": 8
+    },
+    {
+      "year": 1991,
+      "shadow_rate": 0.8333333333333334,
+      "shadow_count": 5.0,
+      "total_count": 6
+    },
+    {
+      "year": 1992,
+      "shadow_rate": 0.6666666666666666,
+      "shadow_count": 4.0,
+      "total_count": 6
+    },
+    {
+      "year": 1993,
+      "shadow_rate": 0.8,
+      "shadow_count": 8.0,
+      "total_count": 10
+    },
+    {
+      "year": 1994,
+      "shadow_rate": 0.6,
+      "shadow_count": 6.0,
+      "total_count": 10
+    },
+    {
+      "year": 1995,
+      "shadow_rate": 0.3333333333333333,
+      "shadow_count": 3.0,
+      "total_count": 9
+    },
+    {
+      "year": 1996,
+      "shadow_rate": 0.4444444444444444,
+      "shadow_count": 4.0,
+      "total_count": 9
+    },
+    {
+      "year": 1997,
+      "shadow_rate": 0.2857142857142857,
+      "shadow_count": 4.0,
+      "total_count": 14
+    },
+    {
+      "year": 1998,
+      "shadow_rate": 0.5454545454545454,
+      "shadow_count": 6.0,
+      "total_count": 11
+    },
+    {
+      "year": 1999,
+      "shadow_rate": 0.1875,
+      "shadow_count": 3.0,
+      "total_count": 16
+    },
+    {
+      "year": 2000,
+      "shadow_rate": 0.5789473684210527,
+      "shadow_count": 11.0,
+      "total_count": 19
+    },
+    {
+      "year": 2001,
+      "shadow_rate": 0.4,
+      "shadow_count": 8.0,
+      "total_count": 20
+    },
+    {
+      "year": 2002,
+      "shadow_rate": 0.5789473684210527,
+      "shadow_count": 11.0,
+      "total_count": 19
+    },
+    {
+      "year": 2003,
+      "shadow_rate": 0.3888888888888889,
+      "shadow_count": 7.0,
+      "total_count": 18
+    },
+    {
+      "year": 2004,
+      "shadow_rate": 0.6818181818181818,
+      "shadow_count": 15.0,
+      "total_count": 22
+    },
+    {
+      "year": 2005,
+      "shadow_rate": 0.5652173913043478,
+      "shadow_count": 13.0,
+      "total_count": 23
+    },
+    {
+      "year": 2006,
+      "shadow_rate": 0.5384615384615384,
+      "shadow_count": 14.0,
+      "total_count": 26
+    },
+    {
+      "year": 2007,
+      "shadow_rate": 0.36,
+      "shadow_count": 9.0,
+      "total_count": 25
+    },
+    {
+      "year": 2008,
+      "shadow_rate": 0.4,
+      "shadow_count": 12.0,
+      "total_count": 30
+    },
+    {
+      "year": 2009,
+      "shadow_rate": 0.7333333333333333,
+      "shadow_count": 22.0,
+      "total_count": 30
+    },
+    {
+      "year": 2010,
+      "shadow_rate": 0.47368421052631576,
+      "shadow_count": 18.0,
+      "total_count": 38
+    },
+    {
+      "year": 2011,
+      "shadow_rate": 0.42857142857142855,
+      "shadow_count": 18.0,
+      "total_count": 42
+    },
+    {
+      "year": 2012,
+      "shadow_rate": 0.28888888888888886,
+      "shadow_count": 13.0,
+      "total_count": 45
+    },
+    {
+      "year": 2013,
+      "shadow_rate": 0.5555555555555556,
+      "shadow_count": 25.0,
+      "total_count": 45
+    },
+    {
+      "year": 2014,
+      "shadow_rate": 0.62,
+      "shadow_count": 31.0,
+      "total_count": 50
+    },
+    {
+      "year": 2015,
+      "shadow_rate": 0.46296296296296297,
+      "shadow_count": 25.0,
+      "total_count": 54
+    },
+    {
+      "year": 2016,
+      "shadow_rate": 0.41509433962264153,
+      "shadow_count": 22.0,
+      "total_count": 53
+    },
+    {
+      "year": 2017,
+      "shadow_rate": 0.4666666666666667,
+      "shadow_count": 28.0,
+      "total_count": 60
+    },
+    {
+      "year": 2018,
+      "shadow_rate": 0.484375,
+      "shadow_count": 31.0,
+      "total_count": 64
+    },
+    {
+      "year": 2019,
+      "shadow_rate": 0.546875,
+      "shadow_count": 35.0,
+      "total_count": 64
+    },
+    {
+      "year": 2020,
+      "shadow_rate": 0.5,
+      "shadow_count": 34.0,
+      "total_count": 68
+    },
+    {
+      "year": 2021,
+      "shadow_rate": 0.3787878787878788,
+      "shadow_count": 25.0,
+      "total_count": 66
+    },
+    {
+      "year": 2022,
+      "shadow_rate": 0.4342105263157895,
+      "shadow_count": 33.0,
+      "total_count": 76
+    }
+  ],
+  "decade_data": [
+    {
+      "decade": 1880,
+      "sum": 2.0,
+      "count": 2,
+      "mean": 1.0
+    },
+    {
+      "decade": 1890,
+      "sum": 1.0,
+      "count": 2,
+      "mean": 0.5
+    },
+    {
+      "decade": 1900,
+      "sum": 9.0,
+      "count": 10,
+      "mean": 0.9
+    },
+    {
+      "decade": 1910,
+      "sum": 10.0,
+      "count": 10,
+      "mean": 1.0
+    },
+    {
+      "decade": 1920,
+      "sum": 12.0,
+      "count": 12,
+      "mean": 1.0
+    },
+    {
+      "decade": 1930,
+      "sum": 17.0,
+      "count": 19,
+      "mean": 0.8947368421052632
+    },
+    {
+      "decade": 1940,
+      "sum": 18.0,
+      "count": 19,
+      "mean": 0.9473684210526315
+    },
+    {
+      "decade": 1950,
+      "sum": 19.0,
+      "count": 23,
+      "mean": 0.8260869565217391
+    },
+    {
+      "decade": 1960,
+      "sum": 25.0,
+      "count": 27,
+      "mean": 0.9259259259259259
+    },
+    {
+      "decade": 1970,
+      "sum": 25.0,
+      "count": 39,
+      "mean": 0.6410256410256411
+    },
+    {
+      "decade": 1980,
+      "sum": 23.0,
+      "count": 79,
+      "mean": 0.2911392405063291
+    },
+    {
+      "decade": 1990,
+      "sum": 43.0,
+      "count": 99,
+      "mean": 0.43434343434343436
+    },
+    {
+      "decade": 2000,
+      "sum": 122.0,
+      "count": 232,
+      "mean": 0.5258620689655172
+    },
+    {
+      "decade": 2010,
+      "sum": 246.0,
+      "count": 515,
+      "mean": 0.47766990291262135
+    },
+    {
+      "decade": 2020,
+      "sum": 92.0,
+      "count": 210,
+      "mean": 0.4380952380952381
+    }
+  ],
+  "groundhog_data": [
+    {
+      "slug": "punxsutawney-phil",
+      "shortname": "Phil",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 127,
+      "shadows": 107.0,
+      "shadow_rate": 0.84251968503937
+    },
+    {
+      "slug": "octoraro-orphie",
+      "shortname": "Orphie",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 90,
+      "shadows": 72.0,
+      "shadow_rate": 0.8
+    },
+    {
+      "slug": "wiarton-willie",
+      "shortname": "Willie",
+      "type": "Groundhog",
+      "country": "Canada",
+      "predictions": 59,
+      "shadows": 25.0,
+      "shadow_rate": 0.423728813559322
+    },
+    {
+      "slug": "jimmy-the-groundhog",
+      "shortname": "Jimmy",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 54,
+      "shadows": 22.0,
+      "shadow_rate": 0.4074074074074074
+    },
+    {
+      "slug": "concord-charlie",
+      "shortname": "Charlie",
+      "type": "Presumed groundhog",
+      "country": "USA",
+      "predictions": 44,
+      "shadows": 18.0,
+      "shadow_rate": 0.4090909090909091
+    },
+    {
+      "slug": "general-beauregard-lee",
+      "shortname": "Beau",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 39,
+      "shadows": 4.0,
+      "shadow_rate": 0.10256410256410256
+    },
+    {
+      "slug": "buckeye-chuck",
+      "shortname": "Chuck",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 39,
+      "shadows": 11.0,
+      "shadow_rate": 0.28205128205128205
+    },
+    {
+      "slug": "french-creek-freddie",
+      "shortname": "Freddie",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 34,
+      "shadows": 12.0,
+      "shadow_rate": 0.35294117647058826
+    },
+    {
+      "slug": "gertie-the-groundhog",
+      "shortname": "Gertie",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 29,
+      "shadows": 9.0,
+      "shadow_rate": 0.3103448275862069
+    },
+    {
+      "slug": "malverne-mel",
+      "shortname": "Malverne Mel",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 27,
+      "shadows": 13.0,
+      "shadow_rate": 0.48148148148148145
+    },
+    {
+      "slug": "staten-island-chuck",
+      "shortname": "Chuck",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 27,
+      "shadows": 5.0,
+      "shadow_rate": 0.18518518518518517
+    },
+    {
+      "slug": "dunkirk-dave",
+      "shortname": "Dave",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 27,
+      "shadows": 9.0,
+      "shadow_rate": 0.3333333333333333
+    },
+    {
+      "slug": "lander-lil",
+      "shortname": "Lil",
+      "type": "Statue of a prairie dog",
+      "country": "USA",
+      "predictions": 25,
+      "shadows": 10.0,
+      "shadow_rate": 0.4
+    },
+    {
+      "slug": "manitoba-merv",
+      "shortname": "Merv",
+      "type": "Groundhog golf club cover",
+      "country": "Canada",
+      "predictions": 25,
+      "shadows": 10.0,
+      "shadow_rate": 0.4
+    },
+    {
+      "slug": "holtsville-hal",
+      "shortname": "Hal",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 24,
+      "shadows": 12.0,
+      "shadow_rate": 0.5
+    },
+    {
+      "slug": "shubenacadie-sam",
+      "shortname": "Sam",
+      "type": "Groundhog",
+      "country": "Canada",
+      "predictions": 24,
+      "shadows": 10.0,
+      "shadow_rate": 0.4166666666666667
+    },
+    {
+      "slug": "woody-the-woodchuck",
+      "shortname": "Woody",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 24,
+      "shadows": 14.0,
+      "shadow_rate": 0.5833333333333334
+    },
+    {
+      "slug": "mojave-max",
+      "shortname": "Max",
+      "type": "Desert tortoise",
+      "country": "USA",
+      "predictions": 23,
+      "shadows": 17.0,
+      "shadow_rate": 0.7391304347826086
+    },
+    {
+      "slug": "sir-walter-wally",
+      "shortname": "Wally",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 23,
+      "shadows": 16.0,
+      "shadow_rate": 0.6956521739130435
+    },
+    {
+      "slug": "woodstock-willie",
+      "shortname": "Willie",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 23,
+      "shadows": 9.0,
+      "shadow_rate": 0.391304347826087
+    },
+    {
+      "slug": "schnogadahl-sammi",
+      "shortname": "Sammi",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 21,
+      "shadows": 16.0,
+      "shadow_rate": 0.7619047619047619
+    },
+    {
+      "slug": "poor-richard",
+      "shortname": "Richard",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 20,
+      "shadows": 14.0,
+      "shadow_rate": 0.7
+    },
+    {
+      "slug": "uni-the-groundhog",
+      "shortname": "Uni",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 18,
+      "shadows": 14.0,
+      "shadow_rate": 0.7777777777777778
+    },
+    {
+      "slug": "balzac-billy",
+      "shortname": "Billy",
+      "type": "Person in a gopher suit",
+      "country": "Canada",
+      "predictions": 18,
+      "shadows": 7.0,
+      "shadow_rate": 0.3888888888888889
+    },
+    {
+      "slug": "grover-and-sue",
+      "shortname": "Grover and Sue",
+      "type": "Taxidermied groundhogs",
+      "country": "USA",
+      "predictions": 16,
+      "shadows": 8.0,
+      "shadow_rate": 0.5
+    },
+    {
+      "slug": "ms-g",
+      "shortname": "Ms. G",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 15,
+      "shadows": 8.0,
+      "shadow_rate": 0.5333333333333333
+    },
+    {
+      "slug": "stormy-marmot",
+      "shortname": "Stormy",
+      "type": "Plush yellow-bellied marmot",
+      "country": "USA",
+      "predictions": 15,
+      "shadows": 8.0,
+      "shadow_rate": 0.5333333333333333
+    },
+    {
+      "slug": "chuckles-the-groundhog",
+      "shortname": "Chuckles",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 14,
+      "shadows": 6.0,
+      "shadow_rate": 0.42857142857142855
+    },
+    {
+      "slug": "stonewall-jackson",
+      "shortname": "Stonewall",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 14,
+      "shadows": 4.0,
+      "shadow_rate": 0.2857142857142857
+    },
+    {
+      "slug": "mount-joy-minnie",
+      "shortname": "Minnie",
+      "type": "Plush groundhog",
+      "country": "USA",
+      "predictions": 14,
+      "shadows": 9.0,
+      "shadow_rate": 0.6428571428571429
+    },
+    {
+      "slug": "snohomish-slew",
+      "shortname": "Slew",
+      "type": "Bullfrog",
+      "country": "USA",
+      "predictions": 13,
+      "shadows": 7.0,
+      "shadow_rate": 0.5384615384615384
+    },
+    {
+      "slug": "fred-la-marmotte",
+      "shortname": "Fred",
+      "type": "Groundhog",
+      "country": "Canada",
+      "predictions": 13,
+      "shadows": 8.0,
+      "shadow_rate": 0.6153846153846154
+    },
+    {
+      "slug": "two-rivers-tunnel",
+      "shortname": "Tunnel",
+      "type": "Groundhog",
+      "country": "Canada",
+      "predictions": 13,
+      "shadows": 5.0,
+      "shadow_rate": 0.38461538461538464
+    },
+    {
+      "slug": "flatiron-freddy",
+      "shortname": "Freddy",
+      "type": "Taxidermied yellow-bellied marmot",
+      "country": "USA",
+      "predictions": 13,
+      "shadows": 8.0,
+      "shadow_rate": 0.6153846153846154
+    },
+    {
+      "slug": "middlemiss-mike",
+      "shortname": "Mike",
+      "type": "Plush prairie dog",
+      "country": "Canada",
+      "predictions": 12,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "chilly-charlie",
+      "shortname": "Charlie",
+      "type": "Person in a groundhog suit",
+      "country": "Canada",
+      "predictions": 12,
+      "shadows": 3.0,
+      "shadow_rate": 0.25
+    },
+    {
+      "slug": "bee-cave-bob",
+      "shortname": "Bob",
+      "type": "Armadillo",
+      "country": "USA",
+      "predictions": 12,
+      "shadows": 3.0,
+      "shadow_rate": 0.25
+    },
+    {
+      "slug": "potomac-phil",
+      "shortname": "Phil",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 11,
+      "shadows": 8.0,
+      "shadow_rate": 0.7272727272727273
+    },
+    {
+      "slug": "beardsley-bart",
+      "shortname": "Bart",
+      "type": "Prairie dog",
+      "country": "USA",
+      "predictions": 11,
+      "shadows": 1.0,
+      "shadow_rate": 0.09090909090909091
+    },
+    {
+      "slug": "sand-mountain-sam",
+      "shortname": "Sam",
+      "type": "Opossum",
+      "country": "USA",
+      "predictions": 11,
+      "shadows": 2.0,
+      "shadow_rate": 0.18181818181818182
+    },
+    {
+      "slug": "bowman-bill",
+      "shortname": "Bill",
+      "type": "Groundhog puppet",
+      "country": "USA",
+      "predictions": 10,
+      "shadows": 9.0,
+      "shadow_rate": 0.9
+    },
+    {
+      "slug": "buffalo-bert",
+      "shortname": "Bert",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 10,
+      "shadows": 10.0,
+      "shadow_rate": 1.0
+    },
+    {
+      "slug": "lawrenceville-lucy",
+      "shortname": "Lucy",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 10,
+      "shadows": 4.0,
+      "shadow_rate": 0.4
+    },
+    {
+      "slug": "boise-bill",
+      "shortname": "Bill",
+      "type": "Plush prairie dog",
+      "country": "USA",
+      "predictions": 10,
+      "shadows": 7.0,
+      "shadow_rate": 0.7
+    },
+    {
+      "slug": "dover-doug",
+      "shortname": "Doug",
+      "type": "Person in a groundhog suit",
+      "country": "USA",
+      "predictions": 10,
+      "shadows": 5.0,
+      "shadow_rate": 0.5
+    },
+    {
+      "slug": "fenwick-flossie",
+      "shortname": "Flossie",
+      "type": "Person in a groundhog suit",
+      "country": "Canada",
+      "predictions": 10,
+      "shadows": 4.0,
+      "shadow_rate": 0.4
+    },
+    {
+      "slug": "polk-county-paula",
+      "shortname": "Paula",
+      "type": "Person in a groundhog suit",
+      "country": "USA",
+      "predictions": 9,
+      "shadows": 2.0,
+      "shadow_rate": 0.2222222222222222
+    },
+    {
+      "slug": "patty-pagoda",
+      "shortname": "Patty",
+      "type": "Person in a groundhog suit",
+      "country": "USA",
+      "predictions": 9,
+      "shadows": 4.0,
+      "shadow_rate": 0.4444444444444444
+    },
+    {
+      "slug": "scramble-the-duck",
+      "shortname": "Scramble",
+      "type": "Pekin duck",
+      "country": "USA",
+      "predictions": 8,
+      "shadows": 7.0,
+      "shadow_rate": 0.875
+    },
+    {
+      "slug": "tinicum-tim",
+      "shortname": "Tim",
+      "type": "Groundhog puppet",
+      "country": "USA",
+      "predictions": 8,
+      "shadows": 5.0,
+      "shadow_rate": 0.625
+    },
+    {
+      "slug": "chesapeake-chuck",
+      "shortname": "Chuck",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 8,
+      "shadows": 3.0,
+      "shadow_rate": 0.375
+    },
+    {
+      "slug": "oil-springs-ollie",
+      "shortname": "Ollie",
+      "type": "Groundhog",
+      "country": "Canada",
+      "predictions": 8,
+      "shadows": 5.0,
+      "shadow_rate": 0.625
+    },
+    {
+      "slug": "wildwood-willie",
+      "shortname": "Willie",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 8,
+      "shadows": 5.0,
+      "shadow_rate": 0.625
+    },
+    {
+      "slug": "snowy-the-prairie-dog",
+      "shortname": "Snowy",
+      "type": "Prairie dog",
+      "country": "USA",
+      "predictions": 8,
+      "shadows": 3.0,
+      "shadow_rate": 0.375
+    },
+    {
+      "slug": "snerd",
+      "shortname": "Snerd",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 8,
+      "shadows": 5.0,
+      "shadow_rate": 0.625
+    },
+    {
+      "slug": "benny-the-bass",
+      "shortname": "Benny",
+      "type": "Largemouth bass",
+      "country": "USA",
+      "predictions": 7,
+      "shadows": 4.0,
+      "shadow_rate": 0.5714285714285714
+    },
+    {
+      "slug": "smith-lake-jake",
+      "shortname": "Jake",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 7,
+      "shadows": 2.0,
+      "shadow_rate": 0.2857142857142857
+    },
+    {
+      "slug": "harleysville-hank",
+      "shortname": "Hank",
+      "type": "Plush groundhog",
+      "country": "USA",
+      "predictions": 7,
+      "shadows": 2.0,
+      "shadow_rate": 0.2857142857142857
+    },
+    {
+      "slug": "big-al",
+      "shortname": "Al",
+      "type": "Alligator",
+      "country": "USA",
+      "predictions": 6,
+      "shadows": 4.0,
+      "shadow_rate": 0.6666666666666666
+    },
+    {
+      "slug": "van-island-violet",
+      "shortname": "Violet",
+      "type": "Vancouver Island marmot",
+      "country": "Canada",
+      "predictions": 6,
+      "shadows": 3.0,
+      "shadow_rate": 0.5
+    },
+    {
+      "slug": "charles-winchester",
+      "shortname": "Chuck",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 5,
+      "shadows": 3.0,
+      "shadow_rate": 0.6
+    },
+    {
+      "slug": "chuck-wood",
+      "shortname": "Chuck",
+      "type": "Animatronic groundhog",
+      "country": "USA",
+      "predictions": 5,
+      "shadows": 5.0,
+      "shadow_rate": 1.0
+    },
+    {
+      "slug": "concord-casimir",
+      "shortname": "Casimir",
+      "type": "Cat",
+      "country": "USA",
+      "predictions": 5,
+      "shadows": 3.0,
+      "shadow_rate": 0.6
+    },
+    {
+      "slug": "athene-the-burrowing-owl",
+      "shortname": "Athene",
+      "type": "Person in an owl suit",
+      "country": "USA",
+      "predictions": 4,
+      "shadows": 3.0,
+      "shadow_rate": 0.75
+    },
+    {
+      "slug": "lucy-the-lobster",
+      "shortname": "Lucy",
+      "type": "Atlantic lobster",
+      "country": "Canada",
+      "predictions": 4,
+      "shadows": 3.0,
+      "shadow_rate": 0.75
+    },
+    {
+      "slug": "mount-gretna-grady",
+      "shortname": "Grady",
+      "type": "Plush groundhog",
+      "country": "USA",
+      "predictions": 4,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "cluxatawney-henrietta",
+      "shortname": "Henrietta",
+      "type": "Ameraucana chicken",
+      "country": "USA",
+      "predictions": 4,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "gordy-the-groundhog",
+      "shortname": "Gordy",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 4,
+      "shadows": 1.0,
+      "shadow_rate": 0.25
+    },
+    {
+      "slug": "poppy-the-groundhog",
+      "shortname": "Poppy",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 3,
+      "shadows": 1.0,
+      "shadow_rate": 0.3333333333333333
+    },
+    {
+      "slug": "yonah-the-groundhog",
+      "shortname": "Yonah",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 3,
+      "shadows": 1.0,
+      "shadow_rate": 0.3333333333333333
+    },
+    {
+      "slug": "stumptown-fil",
+      "shortname": "Filbert",
+      "type": "Beaver",
+      "country": "USA",
+      "predictions": 3,
+      "shadows": 1.0,
+      "shadow_rate": 0.3333333333333333
+    },
+    {
+      "slug": "sylvia-the-apex-armadillo",
+      "shortname": "Sylvia",
+      "type": "Armadillo",
+      "country": "USA",
+      "predictions": 2,
+      "shadows": 2.0,
+      "shadow_rate": 1.0
+    },
+    {
+      "slug": "mt-parker",
+      "shortname": "Parker",
+      "type": "Plush groundhog",
+      "country": "USA",
+      "predictions": 2,
+      "shadows": 1.0,
+      "shadow_rate": 0.5
+    },
+    {
+      "slug": "hope-the-groundhog",
+      "shortname": "Hope",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 2,
+      "shadows": 1.0,
+      "shadow_rate": 0.5
+    },
+    {
+      "slug": "birmingham-jill",
+      "shortname": "Jill",
+      "type": "Opossum",
+      "country": "USA",
+      "predictions": 2,
+      "shadows": 2.0,
+      "shadow_rate": 1.0
+    },
+    {
+      "slug": "unadilla-billie",
+      "shortname": "Billie",
+      "type": "Taxidermied groundhog",
+      "country": "USA",
+      "predictions": 1,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "lady-edwina-of-essex",
+      "shortname": "Lady Edwina",
+      "type": "Groundhog",
+      "country": "USA",
+      "predictions": 1,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "heavens-wildlife-harvey",
+      "shortname": "Harvey",
+      "type": "Groundhog",
+      "country": "Canada",
+      "predictions": 1,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "okanagan-okie",
+      "shortname": "Okie",
+      "type": "Person in yellow-bellied marmot suit",
+      "country": "Canada",
+      "predictions": 1,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "pisgah-penny",
+      "shortname": "Penny",
+      "type": "White tree squirrel",
+      "country": "USA",
+      "predictions": 1,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    },
+    {
+      "slug": "queen-city-charlie",
+      "shortname": "Charlie",
+      "type": "Person in a groundhog suit",
+      "country": "USA",
+      "predictions": 1,
+      "shadows": 0.0,
+      "shadow_rate": 0.0
+    }
+  ],
+  "period_data": [
+    {
+      "period": "1886-1950",
+      "sum": 70.0,
+      "count": 76,
+      "mean": 0.9210526315789473
+    },
+    {
+      "period": "1951-1980",
+      "sum": 71.0,
+      "count": 94,
+      "mean": 0.7553191489361702
+    },
+    {
+      "period": "1981-2000",
+      "sum": 74.0,
+      "count": 190,
+      "mean": 0.3894736842105263
+    },
+    {
+      "period": "2001-2022",
+      "sum": 449.0,
+      "count": 938,
+      "mean": 0.47867803837953093
+    }
+  ]
+}
