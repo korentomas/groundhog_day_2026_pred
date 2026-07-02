@@ -1,10 +1,12 @@
 # Groundhog Day 2026 Prediction
 
+> "When Chekhov saw the long winter, he saw a winter bleak and dark and bereft of hope. Yet we know that winter is just another step in the cycle of life." — *Groundhog Day* (1993)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/korentomas/groundhog_day_2026_pred/blob/main/notebooks/02_bayesian_hierarchical.ipynb)
 
 A side project applying real Bayesian methods to the least serious dataset available: over a century of groundhogs guessing at the weather.
 
-Every February, dozens of groundhogs across the US and Canada "predict" whether winter will run long (saw shadow) or end early (no shadow). The [groundhog-day.com API](https://groundhog-day.com/api/v1) has recorded these predictions back to 1886. This project treats that record as a genuine binomial time series: is the shadow rate actually 50/50, does it drift over time or by region, and which groundhogs are consistently more "shadow-prone" than others, once you account for the fact that some of them have one data point and Punxsutawney Phil has 131.
+Every February, dozens of groundhogs across the US and Canada "predict" whether winter will run long (saw shadow) or end early (no shadow). The [groundhog-day.com API](https://groundhog-day.com/api/v1) has recorded these predictions back to 1886. This project treats that record as a genuine binomial time series: is the shadow rate actually 50/50, does it drift over time or by region, and which groundhogs are consistently more "shadow-prone" than others, once you account for the fact that some of them have one data point and Punxsutawney Phil has 127.
 
 ## Viewing this
 
