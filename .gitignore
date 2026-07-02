@@ -1,0 +1,12 @@
+# Regeneratable data: run fetch_data.py then run_eda.py to recreate all of these
+data/*.json
+data/*.png
+data/*.geojson
+
+# Standard Python / notebook cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
