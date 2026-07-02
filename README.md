@@ -41,16 +41,17 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/02_bayesian_hierar
 - `fetch_data.py`: pulls raw groundhog and prediction data from the API, writes `data/groundhogs.json`, `data/predictions.json`, `data/combined_data.json`.
 - `run_eda.py`: script version of the core EDA. Loads `combined_data.json`, computes overall and yearly shadow rates, runs a binomial test against p=0.5, breaks results down by decade and groundhog type, saves `data/shadow_analysis.png`, `data/groundhog_type_analysis.png`, and `data/bayesian_input.json` (summary stats formatted for the downstream Bayesian model).
 - `notebooks/01_shadow_eda.ipynb`: the notebook version of the above. Load, clean, and explore the shadow data: overall and yearly rates, binomial and chi-square tests, groundhog-type breakdown, and prep for the Bayesian stage.
-- `notebooks/02_bayesian_hierarchical.ipynb`: the real analysis. Two hierarchical PyMC models (per-groundhog partial pooling, and a crossed groundhog x decade model to check whether the apparent post-1980 trend survives once you control for who was reporting), a posterior-based ability ranking, a geographic map of the groundhog registry, plus three follow-up models: fake vs. real groundhogs, agreement rate with Punxsutawney Phil, and a first pass at geographic clustering. All models converge cleanly: r-hat ~1.0, zero divergences.
+- `notebooks/02_bayesian_hierarchical.ipynb`: the real analysis. Two hierarchical PyMC models (per-groundhog partial pooling, and a crossed groundhog x decade model to check whether the apparent post-1980 trend survives once you control for who was reporting), a posterior-based ability ranking, a geographic map of the groundhog registry, plus three follow-up models: fake vs. real groundhogs, agreement rate with Punxsutawney Phil, and geographic clustering (both a linear pass and a full Gaussian process). Five PyMC models total, all converge cleanly: r-hat ~1.0, zero divergences. Maps and geo scatterplots use a hand-drawn vector groundhog marker (no groundhog emoji exists in Unicode, and matplotlib doesn't reliably render color emoji fonts).
 
 ## Future work
 
-Fake vs. real groundhog comparisons, Phil-agreement rates, and a first pass
-at geographic clustering are done — see sections 4-6 of
-`notebooks/02_bayesian_hierarchical.ipynb`. None of the three turned up a
-credible effect: real vs. fake groundhogs, Phil-agreement vs. independence
-baseline, and lat/lon vs. shadow rate all have 94% HDIs straddling zero.
-Still open: per-groundhog streakiness and career-length effects, see the
+Fake vs. real groundhog comparisons, Phil-agreement rates, and geographic
+clustering (linear pass and a full Gaussian process) are done — see sections
+4-6 of `notebooks/02_bayesian_hierarchical.ipynb`. None of the three turned
+up a credible effect: real vs. fake groundhogs, Phil-agreement vs.
+independence baseline, and lat/lon vs. shadow rate all have 94% HDIs
+straddling zero, and the GP's amplitude posterior sits on zero too. Still
+open: per-groundhog streakiness and career-length effects, see the
 Future Work section at the end of that notebook. Checking predictions
 against actual NOAA spring-onset data was investigated and dropped: the
 API's own temperature field only has usable values for 13 of 1761

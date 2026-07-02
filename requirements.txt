@@ -6,7 +6,5 @@ seaborn
 scipy
 pymc
 arviz<0.24
-plotly
-kaleido
 jupyter
 nbclient
