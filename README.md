@@ -29,6 +29,7 @@ All data comes from the public [groundhog-day.com API](https://groundhog-day.com
 pip install -r requirements.txt
 python fetch_data.py   # pulls groundhogs.json, predictions.json, combined_data.json
 python run_eda.py      # runs the shadow-rate EDA, prints stats, saves plots + bayesian_input.json
+ln -s ../data notebooks/data   # nbconvert executes notebooks with their own dir as cwd
 jupyter nbconvert --to notebook --execute --inplace notebooks/01_shadow_eda.ipynb
 jupyter nbconvert --to notebook --execute --inplace notebooks/02_bayesian_hierarchical.ipynb
 ```

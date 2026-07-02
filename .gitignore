@@ -14,3 +14,6 @@ venv/
 # Quarto build output
 /_site/
 /.quarto/
+
+# symlink created by nbconvert repro steps (see README)
+notebooks/data
