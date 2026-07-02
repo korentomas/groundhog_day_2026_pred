@@ -10,7 +10,9 @@ Every February, dozens of groundhogs across the US and Canada "predict" whether 
 
 ## Viewing this
 
-GitHub renders `.ipynb` files with their outputs baked in, so a plain link into `notebooks/` is enough to see all the numbers and plots with zero setup:
+Rendered site with both notebooks fully run: **[korentomas.github.io/groundhog_day_2026_pred](https://korentomas.github.io/groundhog_day_2026_pred)**. Rebuilt on every push to `main` via GitHub Actions (see `.github/workflows/publish.yml`): fetches fresh data, re-executes both notebooks, builds the Quarto site.
+
+Or, since notebooks are committed without outputs, browse them raw:
 
 - [`notebooks/01_shadow_eda.ipynb`](notebooks/01_shadow_eda.ipynb): frequentist EDA.
 - [`notebooks/02_bayesian_hierarchical.ipynb`](notebooks/02_bayesian_hierarchical.ipynb): the actual Bayesian analysis.
@@ -24,14 +26,14 @@ All data comes from the public [groundhog-day.com API](https://groundhog-day.com
 ## Reproducing
 
 ```
-pip install requests pandas numpy matplotlib seaborn scipy plotly kaleido pymc arviz
+pip install -r requirements.txt
 python fetch_data.py   # pulls groundhogs.json, predictions.json, combined_data.json
 python run_eda.py      # runs the shadow-rate EDA, prints stats, saves plots + bayesian_input.json
 jupyter nbconvert --to notebook --execute --inplace notebooks/01_shadow_eda.ipynb
 jupyter nbconvert --to notebook --execute --inplace notebooks/02_bayesian_hierarchical.ipynb
 ```
 
-`data/` is gitignored (`*.json`, `*.png`, `*.geojson`). Everything in it, including the Natural Earth admin-1 boundaries geojson used for the map in the Bayesian notebook, is fetched or generated on demand. Nothing in this repo depends on committed data files, and every plot that matters is generated inline in the notebooks rather than linked from a saved file, so the committed `.ipynb`s render correctly on their own.
+`data/` is gitignored (`*.json`, `*.png`, `*.geojson`). Everything in it, including the Natural Earth admin-1 boundaries geojson used for the map in the Bayesian notebook, is fetched or generated on demand. Nothing in this repo depends on committed data files, and every plot that matters is generated inline in the notebooks rather than linked from a saved file. Notebooks are committed with outputs stripped to keep diffs readable; run them (or use the published site above) to see plots.
 
 ## What's here
 

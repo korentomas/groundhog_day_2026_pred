@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pymc
+arviz
+plotly
+kaleido
+jupyter
+nbclient

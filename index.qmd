@@ -1,0 +1,14 @@
+---
+title: "Groundhog Day 2026 Prediction"
+---
+
+> "When Chekhov saw the long winter, he saw a winter bleak and dark and bereft of hope. Yet we know that winter is just another step in the cycle of life." — *Groundhog Day* (1993)
+
+Real Bayesian methods applied to the least serious dataset available: over a century of groundhogs guessing at the weather.
+
+Every February, dozens of groundhogs across the US and Canada "predict" whether winter will run long (saw shadow) or end early (no shadow). The [groundhog-day.com API](https://groundhog-day.com/api/v1) has recorded these predictions back to 1886. This treats that record as a genuine binomial time series: is the shadow rate actually 50/50, does it drift over time or by region, and which groundhogs are consistently more "shadow-prone" than others, once you account for the fact that some of them have one data point and Punxsutawney Phil has 127.
+
+- [Shadow EDA](notebooks/01_shadow_eda.ipynb) — frequentist exploration: overall and yearly shadow rates, binomial and chi-square tests, groundhog-type breakdown.
+- [Bayesian hierarchical model](notebooks/02_bayesian_hierarchical.ipynb) — the real analysis: partial pooling by groundhog, a groundhog x decade model, posterior ability rankings, and a map of the registry.
+
+Source and reproduction steps: [github.com/korentomas/groundhog_day_2026_pred](https://github.com/korentomas/groundhog_day_2026_pred).

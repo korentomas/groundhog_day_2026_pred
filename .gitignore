@@ -10,3 +10,7 @@ __pycache__/
 .DS_Store
 venv/
 .venv/
+
+# Quarto build output
+/_site/
+/.quarto/

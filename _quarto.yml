@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Groundhog Day 2026 Prediction"
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: notebooks/01_shadow_eda.ipynb
+        text: EDA
+      - href: notebooks/02_bayesian_hierarchical.ipynb
+        text: Bayesian model
+    right:
+      - icon: github
+        href: https://github.com/korentomas/groundhog_day_2026_pred
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+    code-tools: true
+    embed-resources: false
+
+execute:
+  freeze: false
