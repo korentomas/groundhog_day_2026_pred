@@ -5,7 +5,7 @@ matplotlib
 seaborn
 scipy
 pymc
-arviz
+arviz<0.24
 plotly
 kaleido
 jupyter
